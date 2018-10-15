@@ -1,0 +1,38 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: #eeeeee;
+}
+
+.para{
+	font-size: 35px;
+}
+.link{
+	color: black;
+	font-size: 20px;
+}
+
+.links{
+	color: #a4aab3;
+}
+
+.main{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card{
+	margin: 5px;
+}
+
+.icon{
+	font-size: 10px;
+	color: gray;
+}
+
+.free{
+	color: #98d195;
+	font-weight: bold;
+	font-size: 16px;
+	display: flex;
+	justify-content: flex-end;
+}
